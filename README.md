@@ -1,7 +1,7 @@
 # HRR
 Hillslope River Routing (HRR) Model
 
-Below are publications discribing the HRR model. source code and processing scripts will be avaiable shortly.
+Below are publications discribing the HRR model.
 
 Beighley, R. E., K. G. Eggert, T. Dunne, Y. He, V. Gummadi, and K. L. Verdin (2009), Simulating hydrologic and hydraulic processes throughout the Amazon River Basin, Hydrological Processes, http://dx.doi.org/10.1002/hyp.7252.
 
