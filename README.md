@@ -21,3 +21,5 @@ Yoon, Y., Beighley, R. E., Lee, H., Pavelsky, T., and Allen, G. (2015), Estimati
 
 Ray, R., Beighley, R.E.,  and Yoon, Y. (2016), Integrating Runoff Generation and Flow Routing in Susquehanna River Basin to Characterize Key Hydrologic Processes Contributing to Maximum Annual Flood Events, ASCE Journal of Hydrologic Engineering, 04016026, http://dx.doi.org/10.1061/(ASCE)HE.1943-5584.0001389. 
 
+Zhao, Y., and Beighley, R.E. (2016), Scaling Surface Runoff Routing Processes in Large Scale Hydrologic Models: Application to the Ohio River Basin, ASCE Journal of Hydrologic Engineering, http://dx.doi.org/10.1061/(ASCE)HE.1943-5584.0001478. 
+
